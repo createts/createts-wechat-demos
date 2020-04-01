@@ -1,0 +1,7 @@
+<canvas type="2d"
+        id='demo'
+        bindtouchstart='ontouchstart'
+        bindtouchmove='ontouchmove'
+        bindtouchend='ontouchend'
+        bindtouchcancel='ontouchcancel'
+></canvas>
